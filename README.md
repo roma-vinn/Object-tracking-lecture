@@ -1,5 +1,4 @@
 # Motion detection and object tracking lecture
-[Lecture slides](Movement detection and object tracking.pdf)
 
 ## Agenda
 - Problem statement
