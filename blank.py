@@ -1,3 +1,7 @@
+"""
+Author: Roman Polishchenko
+email: roma.vinn@gmail.com
+"""
 import argparse
 import time
 import torch
