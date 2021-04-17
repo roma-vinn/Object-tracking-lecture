@@ -3,3 +3,4 @@ venv
 yolov5
 *.pt
 *.avi
+.DS_Store
