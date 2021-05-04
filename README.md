@@ -31,7 +31,7 @@
 |-------|--------|
 |Add people tracker to the [video](https://github.com/opencv/opencv/blob/master/samples/data/vtest.avi), submit your code + video result (in my Telegram)|10|
 |Compare trackers without appearance metrics ([SORT](https://github.com/abewley/sort) / [Norfair](https://github.com/tryolabs/norfair) etc.) to ones that use it ([DeepSORT](https://github.com/nwojke/deep_sort) / [FairMOT](https://github.com/ifzhang/FairMOT) etc.)|10|
-|Online presentation of your code (Google Meet/Zoom)|10|
+|Online presentation of your code (Google Meet/Zoom): show me, how you obtained your video results|10|
 |Answer my additional questions|5|
 
 ## Deadline
