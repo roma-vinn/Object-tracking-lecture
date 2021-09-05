@@ -1,5 +1,11 @@
 # Motion detection and object tracking lecture
 
+**Meeting Recording:**
+
+https://us02web.zoom.us/rec/share/uxYH8RxkGWaWO6BZB9xhYUX4i0NwA_9I1vVAnzQu13FPZ8a-WzdGWnrhjtUCvYkV.V8y4zVOLEwXnF7zL
+
+Access Passcode: u^k1dim2
+
 ## Agenda
 - Problem statement
 - Basic approach
